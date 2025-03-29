@@ -1,0 +1,21 @@
+header,.section-1{
+   background-color: #ebf8ff;
+}
+.home{
+    color: #3182ce;
+    
+}
+.button{
+    background-color: #3182ce;
+}
+.par-1{
+    color:  #4a5568;
+}
+footer{
+    background-color: #2d3748;
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
